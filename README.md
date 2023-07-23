@@ -2,7 +2,7 @@
 
 To run the project: 
 
-    ** Ensure that node js are installed on the system. **
+    **Ensure that node js are installed on the system.**
     ** Open terminal and write: **
     
     ```
